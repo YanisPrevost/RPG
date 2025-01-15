@@ -1,0 +1,22 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXX        X            XXXXXXX
+XXXX     H       XXXXXX  XOOXXXX
+XXXX 2 X     D   XXXXXX  X     X
+X      X     XXXXXXXXXX       XX
+X 1 0  X    XXXXXXX      X    XX
+X    X   H  XXXXXXX   X  X  H XX
+X H  X3     X     X   X        X
+X 4 X        L             X   X
+X   X    M     J           X   X
+XXX X     X      X   G        XX
+XXXXXXX   X   XXXX            XX
+XXXXXXX J X   XXXX          K XX
+XXXXXXX   X   XXXX      E      X
+X               X   X  X   H Y X
+XX    XXXXXX    X   X  X       X
+XX X  XXXXXX Z  X   X  X  X  / X
+XX X  XXXXXX    X H X     X  XXX
+X  X X          X   X     X  XXX
+X  X X   XXXXXXXX   X     X    X
+X  X X   XXXXXXXX   XXX   X  * X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

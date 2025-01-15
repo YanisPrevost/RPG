@@ -1,0 +1,69 @@
+1: So the king is in his castle.
+3: So he is probably this way ?
+2: I need to explore to find the king.
+4: So he is probably in this castle.
+5: So I need to find the king of Elae.
+
+ennemy: It is the property of the Aixus king.
+
+1 : I thought it was the Edgar kingdom.
+3 : This is not the Edgar kingdom ?
+2 : Where can we find Edgar ?
+4 : It is not the Edgar’s kingdom ?
+5 : Tell me where is Edgar.
+
+ennemy : Edgar is not in this world anymore.
+
+1 : Why ??!!
+3 : What did you do ?!!
+2 : How it is possible ?
+4 : No, I do not believe you.
+5 : Why ? It's not possible.
+
+ennemy : HAHAHA I killed him with my sword.
+
+1 : We will make you regret it.
+3 : How did you dare ???!
+2 : We will make you pay that !!
+4 : It is time for you to die now.
+5 : Arrrgh we hate people like you.
+
+1 : Why did you do that ?
+3 : For who you work ?
+2 : Why ?
+4 : For who you did that ?
+5 : Who say you to do that ?
+
+ennemy : I do that for the Aixus king.
+
+1 : Why he make you do that ?
+3 : Why he do that ?
+2 : Why he do all this carnage ?
+4 : Why he do that ?
+5 : Why is he so mean, where is he?
+
+ennemy : He is superior to all. 
+
+ennemy : He is going to conquer this world !
+
+ennemy : He is the god of this world.
+
+ennemy : You will never find him.
+
+1 : He is just a fool.
+3 : He disgust me.
+2 : That pathetic.
+4 : You digusst me with your speech.
+5 : Stop say that I will make you regret.
+
+ennemy : I wait you come fight me.
+
+ennemy : At last if you not die before.
+
+1 : We come to end you madness.
+3 : You are just a slave of a fool.
+2 : I come to kill now.
+4 : I will defeat you now.
+5 : It is the end for you.
+
+*

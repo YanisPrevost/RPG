@@ -1,0 +1,44 @@
+1: The earth beneath my feet has 
+1: never felt so comforting.
+3: Finally, we have arrived. This
+3: land… it has a mystical aura.
+2: It is a new world opening up to us.
+4: I sense a different energy here.
+5: We have ve crossed the sea, now 
+5: it is time for the land.
+
+ennemy : Halt! Who dares to approach 
+ennemy : the grounds without permission?!
+
+1 : We mean no harm. We seek and
+1 :  audience with the king.
+3 : We have traveled far and 
+3 : faced many dangers.
+3 : We would not be stopped now.
+2 : We have proven our worth time 
+2 : and again. Let us pass.
+4 : Your king needs to hear what 
+4 : we have to say.
+5 : We need to defeat the king.
+
+ennemy : None shall pass without proving 
+
+1: It is urgent.
+3: He destroy our fields, we need 
+3: to talk to him we ca not go back now.
+2: We just want the peace in our country.
+4: Please let us talk.
+5: We need to talk to him.
+
+ennemy : The king receives no one.
+
+1: So we must defeat you.
+3: We would nott let it happen.
+3: We will not give up.
+2: So we need to kil you.
+4: I will destroy you.
+5 : It is the end for you.
+
+ennemy : bring yourself back.
+
+*

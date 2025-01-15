@@ -1,0 +1,45 @@
+1 : It is very hot here.
+3 : I am so hot.
+2 : I hate the heat.
+4 : The landscape is so empty.
+5 : It's suspicious here.
+
+ennemy : 'try to hit the hero'
+
+ennemy : What are you doing there 
+
+1 : Wow, are you fool ?
+3 : Why did you attack me ?
+2 : You afraid me !
+4 : You are very strange.
+5 : How did you dare .
+
+ennemy : Respond to me.
+
+ennemy : WHY ARE YOU THERE ??!
+
+1 : We want to venge Edgar dead.
+3 : We are here to take a revenge.
+2 : We take a revenge for Edgar.
+4 : We are going to kill Aixus king.
+5 : We are going to end the terror.
+
+ennemy : No one can hurt our king.
+
+1 : That what you said.
+3 : Haha you really think that.
+2 : No one is invicible.
+4 : I will kill him.
+5 : It not possible that.
+
+ennemy : If you try to hit him.
+
+ennemy : I will kill you all.
+
+1 : we are going to arrest you.
+3 : It is time to finish you.
+2 : It is the end for you.
+4 : I will silence you.
+5 : It's time to end it.
+
+*

@@ -1,0 +1,37 @@
+ennemy : Stop !! What do you 
+ennemy : want from our king ?
+
+1 : We are the soldier of Edgar and we 
+3 : You are king attack us with all your 
+2 : We come in peace, we just want 
+4 : We just want the peace , let’s 
+5 : We need need to talk at your king 
+
+1 : want to make the peace in our country.
+3 : soldier and chief we want to 
+3 : make the peace.
+2 : to make the peace here.
+4 : us talk to your king.
+5 : about your attack.
+
+ennemy : Our king do not talk to stranger 
+ennemy : get out there or I will 
+ennemy : kill you all !
+
+1 : Come on so.
+3 : So come to fight.
+2 : If it is the only solution. 
+2 : to make peace come here.
+4 : Come fight with us.
+5 : We gonna defeat you.
+
+ennemy : It is time to finsish you story
+ennemy : poor fool !
+
+1 : It is time to end this madness.
+2 : It would not be the end.
+3 : We would not let you destroy our world.
+4 : It is not the end for us !
+5 : It will not be the end.
+
+*

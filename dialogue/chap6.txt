@@ -1,0 +1,50 @@
+1: This throne room... there 
+1 : is a malevolent.
+3: Something is not right here. 
+2: We need to hurry. There is 
+4: The throne... it is radiating a 
+5: The throne is the source of this.
+
+1 : aura emanating from the throne.
+2 : an evil presence around the throne. 
+3 : Can you feel it ?  
+3 : It is coming from the throne.
+4 : wicked energy. We must act quickly. 
+5 : dark aura. We need to move fast.
+
+ennemy : So, you have made it this far. 
+ennemy : But you will go no further!
+
+1 : We have come for the king. If you
+3 : We are not afraid of you, old 
+2 : We are prepared to do whatever it 
+4 : You might be strong, but we have got 
+5 : We are here for the king. And 
+
+1 : stand in our way, we will fight. 
+2 : takes. We would not be stopped here. 
+3 : man. We have faced your kind before. 
+4 : something you do not have... 
+4 : determination ! 
+5 : We would not let you or 
+5 : anyone else stop us.
+
+ennemy : You are brave, I will give you 
+ennemy : that. But bravery alone 
+ennemy : would not save you.
+
+1 : We have got more than bravery on 
+3 : And we have got a reason to fight. 
+2 : We do not just fighting
+2 : for ourselves. 
+4 : And we would not back down. not
+4 : now, not ever. 
+5 : So come on then. Let us seek
+5 : what you have got.
+
+1 : our side. We have got each other. 
+2 : We are fighting for everyone
+2 : you have threatened. 
+3 : That is more than you can say.
+
+*

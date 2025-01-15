@@ -1,0 +1,22 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X  XXXX                  F X
+X   X  XXXX       XXX          X
+X   X  XXXXXXXX            XX  X
+X   X 2            III         X
+X   XXX     F      III   XXXWXXX
+X 3                            X
+X 0 FF      F    XXXWXXXX    XXX
+XXX  F1                        X
+X    4      F      F XXXXXXXAAAX
+X           XXX      XXXXXXXAAAX
+X   X                          X
+XXX X     XX  XXXXXXXXX      X X
+X                  M    XXX  X X
+X FF      XXXXXX        L    XXX
+XXXXXXX   XXXXXX J XXX         X
+XXXXXXX   XXXXXX       XXX XXXXX
+XXXXXXX   X          Z     R   X
+XXXXXXX   XXXXXXXX     G  XXXXXX
+XXXXXXX              XXX       X
+XXXXXXX     XXXX     XXXXXXXX  X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

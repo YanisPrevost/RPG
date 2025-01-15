@@ -1,0 +1,46 @@
+1 : It is finally the end we gonna win
+3 : We gonna attain the peace
+2 : The king is just there
+4 : the end is within reach
+5 : The king is over there
+
+ennemy : Who bothers me during my sleep ?!!
+
+1 : We have come to end your 
+1 : reign of terror, King.
+3 : Your time is up, King. We are here 
+3 : to restore peace.
+2 : King, your reign ends here and now.
+4 : We have come to put a stop 
+4 : to your plans, King.
+5 : King, your rule ends today.
+
+ennemy : You dare to challenge me ?
+ennemy : I will conquer the world
+ennemy : and destroy Edgar kingdom.
+ennemy : I will shatter the peace 
+ennemy : and spread war!
+
+1: We would not let that happen. 
+3: We are not afraid of you. 
+2: We are ready to fight. 
+4: We are stronger than you think.
+5: We are determined to stop you. 
+
+1 : We are here to fight for peace.
+3 : We will do whatever it 
+3 : takes to stop you.
+2 : We can not let you destroy the peace.
+4 : We can not let you spread war.
+5 : We can not let you conquer the world.
+
+ennemy : No one can defeat me
+ennemy : it is the end for you.
+
+1: It is time to stop this destruction
+2: We are going to destroy you.
+3: It is the end of your reign
+4: It is what they all said before
+5: I am going to end yoour reign
+
+*
