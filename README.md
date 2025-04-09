@@ -65,7 +65,7 @@ Ce RPG est un jeu d'aventure et de combat développé avec la bibliothèque SFML
 
 1. Clonez ce dépôt
    ```bash
-   git clone [votre-dépôt]
+   git clone https://github.com/YanisPrevost/RPG
    cd RPG
    ```
 
